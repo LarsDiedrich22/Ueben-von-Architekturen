@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+.DS_Store
+
+secrets.h
+.env
+.env.*
+!.env.example
